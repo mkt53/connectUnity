@@ -25,7 +25,7 @@ prompt = "「以下の条件に従い返信してください。1:わかりや�
 app = Flask(__name__)
 
 #nowNgrokURL = "https://5c18-240f-64-8262-1-4c0b-32fc-b927-ac0c.ngrok-free.app"
-nowNgrokURL = "https://9f56-240f-64-8262-1-7c11-7b4f-5bc6-32df.ngrok-free.app"
+nowNgrokURL = "https://36fc-240f-64-8262-1-8075-8f7d-bf83-18ba.ngrok-free.app/"
 
 def askgem(question):
     start = time.time()
